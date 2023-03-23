@@ -1,0 +1,19 @@
+.whole-pokecard{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.poke-name{
+    color: blue;
+}
+
+.poke-img{
+    height: 100px;
+    width: 100px;
+}
